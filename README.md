@@ -87,11 +87,10 @@ flutter run
 
 ## 📸 Screenshots
 
-Add screenshots or a short screen recording of the application here to showcase the chat interface and the main user flow.
+<img width="250" height="500" alt="Screenshot_1789512426" src="https://github.com/user-attachments/assets/e31f3204-e573-40d0-824f-70200992b235" />             <img width="250" height="500" alt="Screenshot_1789512932" src="https://github.com/user-attachments/assets/8d952a0f-ee00-4b75-a67d-245f740fe81f" />
 
-```text
-Coming soon...
-```
+
+
 
 ## 🔮 Future Improvements
 
